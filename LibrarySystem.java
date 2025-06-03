@@ -1,17 +1,10 @@
 import java.util.*;
 import java.util.Scanner;
 /**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
  * This class contains the main menu system and entry point for the Library Management System.  
  * It allows users to add books, display the catalog, borrow and return books.
- * Student Name: Chloe Capriotti
- * Student Number: 041154964      
- * Section #: 301   
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
  */
-public class Assign1 {
+public class LibrarySystem {
 	/**Displays the main menu options for the user to choose from.*/
 	static void displayMenu(){
 		System.out.print("Please select one of the following: \n"
