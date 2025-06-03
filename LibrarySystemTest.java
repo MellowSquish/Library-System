@@ -3,16 +3,10 @@ import org.junit.jupiter.api.Test;
 import java.util.Scanner;
 import static org.junit.jupiter.api.Assertions.*;
 /**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * This class contains junit testing
- * Student Name: Chloe Capriotti
- * Student Number: 041154964      
- * Section #: 301   
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
+ * This class contains JUnit testing for successfully borrowing and returning books,
+ * and unsuccessfully returning and borrowing reference books
  */
-public class Assign1Test {
+public class LibrarySystemTest {
 	//initilizing library object
     private Library library;
 
